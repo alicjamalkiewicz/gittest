@@ -3,6 +3,7 @@ pierwszy plik
 Zmiana 1
 
 Zmiana 2
+
 Zmiana 3 other machine
 zmiana 4 other machine
 zmiana 5 other machine
@@ -17,3 +18,8 @@ zmiana local_branch_1
 zmiana local_branch_other_machine
 
 zmiana 2 local_branch_1
+
+zmiana 3 new_branch_other_machine
+
+
+zmiana z main
